@@ -1,4 +1,5 @@
 # Check if Binary representation is palindrome.
+# https://thecybercode.com/
 
 def isPalindrome(n):
     rev = 0

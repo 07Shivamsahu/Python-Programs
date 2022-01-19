@@ -1,4 +1,5 @@
 # Python program for finding Compound Interest.
+# https://thecybercode.com/
 
 def compound_interest(p, r, t):
     print("The principal is ", p)

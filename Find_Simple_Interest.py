@@ -1,4 +1,5 @@
 # Pyhton program for finding Simple Interest.
+# https://thecybercode.com/
 
 def simple_interest(p, t, r):
     print("The Simple Principal is ", p)

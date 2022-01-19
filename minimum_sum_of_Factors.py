@@ -1,4 +1,5 @@
 # Python program for find minimum sum of factors.
+# https://thecybercode.com/
 
 def findMinSum(num):
     sum=0

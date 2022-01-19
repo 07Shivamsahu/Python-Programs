@@ -1,4 +1,5 @@
 # Python program for cube sum of first n no's.
+# https://thecybercode.com/
 
 def sumofseries(n):
     sum=0
